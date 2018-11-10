@@ -6,12 +6,12 @@ Blog
 * CRUD on posts
 * being able to use Markdown in post
 * Tagging
-* Ranking
+* Ranking (order by the number of hits)
 
 #### Optional
 
-* sumnail for each post
-* Searching by tag
+* sumnail for each post (If I attach an image, that will be shown as a sumnail with specific size)
+* Searching by tag (only one keyword is acceptable)
 
 #### start command
 
